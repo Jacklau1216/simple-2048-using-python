@@ -31,7 +31,7 @@ Play the [game](https://play2048.co/) first to know about the rules and start pl
 
 Download the sourcecode and run it on your terminal, check out the expected outcome and start your coding :computer:
 
-4. Always use source code for help
+4. **Always use source code for help**
 
 Some of the debugging may be annoying, check if the source code has the solution to your bug and help me to find my bugs too :rofl:
 
